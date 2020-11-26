@@ -21,4 +21,3 @@ Frontiers in Computational Neuroscience **10**:57.
 
 Meng, X., Guguet, G., and Rinzel, J. (2012). "Type III excitability, slope sensitivity, and 
 coincidence detection," Discrete and Continuous Dynamical Systems Series A **32**, 2729-2757.
-incl
